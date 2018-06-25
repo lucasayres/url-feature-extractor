@@ -244,7 +244,7 @@ Any contribution is appreciated.
 
 1. Clone the project:
   ```
-  $ git clone https://github.com/lucasayres/URLFeatureExtractor.git
+  $ git clone https://github.com/lucasayres/url-feature-extractor.git
   ```
 
 2. Make your changes in a new git branch:
