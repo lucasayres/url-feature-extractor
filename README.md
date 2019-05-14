@@ -2,6 +2,12 @@
 
 Extracting features from URLs to build a data set for machine learning. The purpose is to find a machine learning model to predict phishing URLs, which are targeted to the Brazilian population.
 
+This repo includes the implementation of our paper:
+
+Lucas Dantas Gama Ayres, Italo Valcy S Brito and Rodrigo Rocha Gomes e Souza. Utilizando Aprendizado de Máquina para Detecção Automática de URLs Maliciosas Brasileiras. In Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC 2019) - 2019, Gramado - RS - Brazil.
+
+The paper is available here: http://sbrc2019.sbc.org.br/wp-content/uploads/2019/05/sbrc2019.pdf [pages 993-1006]
+
 ## Install
 
 ```bash
