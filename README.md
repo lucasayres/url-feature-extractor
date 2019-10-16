@@ -7,6 +7,7 @@ This repo includes the implementation of our paper:
 Lucas Dantas Gama Ayres, Italo Valcy S Brito and Rodrigo Rocha Gomes e Souza. Using Machine Learning to Automatically Detect Malicious URLs in Brazil. In Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC 2019) - 2019, Gramado - RS - Brazil.
 
 The paper is available here: https://sol.sbc.org.br/index.php/sbrc/article/view/7416
+
 DOI: https://doi.org/10.5753/sbrc.2019.7416
 
 ## Install
